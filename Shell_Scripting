@@ -1,1 +1,3 @@
-My scripts is updated
+#!/bin/bash
+ls
+ls -lrt
