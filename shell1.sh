@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "myworld"
 ls -lrt
-printf "DevOps learning"
+printf "DevOps learning\n"
 echo -e "\e[31mtext is in red\e[0m"
 echo -e "\e[32mtext is in green\e[0m"
 echo -e "\e[33mtext is in yellow\e[0m"
