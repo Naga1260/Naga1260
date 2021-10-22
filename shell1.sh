@@ -1,5 +1,5 @@
 #!/bin/bash
-myfunc() {
+function myfunc() {
 echo "myworld"
 ls -lrt
 printf "DevOps learning\n"
@@ -12,4 +12,4 @@ echo -e "\e[36mtext is in cyan\e\0m"
 }
 
 echo -e "Here is the funtion call"
-myfunc()
+myfunc
