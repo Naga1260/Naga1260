@@ -1,7 +1,7 @@
 #!/bin/bash
 function myfunc()
 {
-echo "myworld"
+echo "myworld is here"
 ls -lrt
 printf "DevOps learning\n"
 echo -e "\e[31mtext is in red\e[0m"
