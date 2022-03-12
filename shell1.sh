@@ -1,5 +1,6 @@
 #!/bin/bash
-function myfunc() {
+function myfunc()
+{
 echo "myworld"
 ls -lrt
 printf "DevOps learning\n"
